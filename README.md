@@ -8,7 +8,6 @@
 >
 > **What I delivered:** three evidenced root causes, 29 prioritised requirements, a Jira-ready backlog, a BRD and a 12-month roadmap. I presented the findings and recommendations to the key stakeholders, who accepted them.
 >
-> **My role:** sole business analyst on a case from the Amdari business analysis programme. The brief and dataset were provided; all analysis, documentation and the dashboard are my own work.
 
 **[View the live interactive dashboard](https://lolabode.github.io/luxemart-employee-retention/)**
 
